@@ -1,0 +1,36 @@
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Craig\AppData\Local\Temporary Projects\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.exe
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.pdb
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\bin\Debug\WindowsApplication1.xml
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+G:\Files\Software design\Programs\V.B programs\G.U.I\Calculator\Calculator V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Program Files\Software design\Programs\V.B programs\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.exe
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.xml
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.pdb
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Thane_Acheron\Desktop\ThaneAcheron\Coding and Design\Miscellaneous\VB\G.U.I\Calculator\V2\WindowsApplication1\WindowsApplication1\obj\x86\Debug\WindowsApplication1.vbproj.GenerateResource.Cache
